@@ -1,0 +1,47 @@
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Negocio\obj\Debug\Negocio.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\AccesoDatos.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\Entidad.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\AccesoDatos.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\bin\Debug\Entidad.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,124 @@
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Area.resources
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\tecnlogi\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Principal.resources
+D:\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+D:\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+D:\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Area.resources
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Principal.resources
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\VIDEOS CLASES C# SQLSERVER\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Marca.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Area.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Marca.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Principal.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Impresora.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Inventario.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Acerca.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Cargo.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Equipo.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Licencia.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Login.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Ubicacion.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_UReporte_Impresoras.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_UReporte_Equipos.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_UReporte_Inventarios.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_UReporte_Licencias.resources
+C:\Users\Usuario\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Supervisor.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Acerca.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Area.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Cargo.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Equipo.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Impresora.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Inventario.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Licencia.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Login.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Marca.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Principal.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Supervisor.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Ubicacion.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Star\Desktop\Control Inventario Visual C#\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Entidad.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.dll
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Entidad.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\bin\Debug\AccesoDatos.pdb
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Acerca.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Area.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Cargo.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Equipo.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Impresora.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Inventario.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Licencia.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Login.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Marca.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Principal.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Menu_Supervisor.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Ubicacion.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+D:\proyecto\Control Inventario Visual\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb
